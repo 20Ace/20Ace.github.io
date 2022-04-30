@@ -6,8 +6,8 @@ You can use the [editor on GitHub](https://github.com/20Ace/20Acegithub.io/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Personal Information
-#### Yuxi Zhang（张予希）
+### Personal Media
+#### [Instagram](https://www.instagram.com/ace.yx.z/)
 #### Sophomore student at College-Conservatory of Music, University of Cincinnati
 #### E-mail: Zhang7yx@mail.uc.edu
 
@@ -15,6 +15,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 [Link](https://youtu.be/ZnRhX98KTPA) and 
+
+
 
 ![image](https://github.com/20Ace/20Ace.github.io/blob/main/IMG_2091.jpg)
 

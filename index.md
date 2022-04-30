@@ -1,10 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/20Ace/20Ace.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/20Ace/20Acegithub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Information
+#### Yuxi Zhang（张予希）
+#### Sophomore student at College-Conservatory of Music, University of Cincinnati
+#### E-mail: Zhang7yx@mail.uc.edu
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +33,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20Ace/20Ace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20Ace/20Acegithub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

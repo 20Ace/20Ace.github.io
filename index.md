@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Yuxi's Personal Pages
+
+My name is Yuxi Zhang (张予希) and I am a sophomore student major in music at College-Conservatory of Music, University of Cincinnati. I have been exposed to music since I was a child and have a good sense of rhythm. I have done some researches on adolescent psychological education. This website shows media representing my business. Contact me with zhang7yx@mail.uc.edu.
 
 You can use the [editor on GitHub](https://github.com/20Ace/20Acegithub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

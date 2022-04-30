@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [Link](url) and 
 
-![Alt text](http://20Ace.github.io/IMG_2091.jpg)
+![Alt text](https://github.com/20Ace/20Ace.github.io/blob/main/IMG_2091.jpg)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
